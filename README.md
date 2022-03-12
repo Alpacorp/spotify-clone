@@ -17,3 +17,5 @@ Once you have logged in with your account, in the main search input you can writ
 You can see sing lyrics and controller to listen sing.
 
 This web layout use the https://developer.spotify.com/documentation/web-api/ Spotify API and https://github.com/thelinmichael/spotify-web-api-node#authentication library to create correct authentication.
+
+![image](https://user-images.githubusercontent.com/26267156/158025735-22b0819c-ac8c-4afa-893e-ebc1c9dae8a0.png)
