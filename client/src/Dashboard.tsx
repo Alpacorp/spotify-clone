@@ -82,7 +82,7 @@ const Dashboard = ({ code }: DashboardProps) => {
     <>
       <Container
         className="d-flex flex-column py-2"
-        style={{ height: "100vh" }}
+        style={{ height: "100vh", background: "#f2f2f2" }}
       >
         <Form.Control
           type="search"
